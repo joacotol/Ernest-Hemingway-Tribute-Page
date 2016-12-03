@@ -1,0 +1,155 @@
+h1 {
+  font-family: Georgia;
+  background-color: black;
+  color: white;
+  display: block;
+  font-size: 70px;
+  padding: 0 0 0 3px;
+  margin-right: 580px;
+  line-height: 40px;
+}
+
+.EH {
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+  margin-bottom: 0;
+}
+
+#Bio {
+  color: white;
+  font-family: Georgia;
+  background-color: black;
+  padding: 0;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+}
+
+#Works {
+  color: white;
+  background-color: black;
+  padding: 0;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-family: Georgia;
+}
+
+#CV {
+  color: white;
+  background-color: black;
+  padding: 0;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-family: Georgia;
+}
+
+#LP {
+  color: white;
+  background-color: black;
+  padding: 0;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-family: Georgia;
+}
+
+#Hist {
+  color: white;
+  background-color: black;
+  padding: 0 2px 0 2px;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-family: Georgia;
+}
+
+#Wikh {
+  color: white;
+  background-color: black;
+  padding: 0 2px 0 2px;
+  display: block;
+  font-size: 30px;
+  margin: 10px;
+  margin-right: auto;
+  text-align: center;
+  font-family: Georgia;
+}
+
+.row {
+  margin-top: -20px;
+  margin-bottom: 50px;
+  display: block;
+}
+
+.container-fluid {
+  border: 5px solid black;
+  margin-right: 900px;
+  margin-bottom: -300px;
+}
+
+.info {
+  position: absolute;
+  right: 110px;
+  border: 2px solid black;
+  width: 60%;
+  margin: 0;
+  padding: 10px;
+}
+
+.container-fluid,
+.info {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: yellow;
+}
+
+#Bio:hover,
+#CV:hover,
+#Works:hover,
+#LP:hover,
+#Hist:hover,
+#Wikh:hover {
+  color: yellow;
+}
+
+.w_eh {
+  display: none;
+}
+
+.v_eh {
+  display: none;
+}
+
+.l_eh {
+  display: none;
+}
+
+.h_eh {
+  display: none;
+}
+
+.wiki_eh {
+  display: none;
+}
